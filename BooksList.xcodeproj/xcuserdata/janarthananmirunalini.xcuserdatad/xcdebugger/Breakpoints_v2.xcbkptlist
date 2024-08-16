@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8BF380B5-8752-4836-81D1-ED3A9BD32A7F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1D13F28-0D2B-44B0-87AE-BC3BEA2FB19B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/CustomBook+CoreDataProperties.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45CC9BB2-3011-439C-8764-DF10225977D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/ImageCache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45CC9BB2-3011-439C-8764-DF10225977D3 - 34ab0ed50a5bdd04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.ImageCache.load(url: __C.NSURL, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/ImageCache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "45CC9BB2-3011-439C-8764-DF10225977D3 - 34ab0ed50a5bdd04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.ImageCache.load(url: __C.NSURL, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/ImageCache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4B4DD3F-B6D3-4129-AA84-F8B6921174DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/ImageCache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4B4DD3F-B6D3-4129-AA84-F8B6921174DF - 34ab0ed50a5bdcd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.ImageCache.load(url: __C.NSURL, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/ImageCache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1677">
+               </Location>
+               <Location
+                  uuid = "F4B4DD3F-B6D3-4129-AA84-F8B6921174DF - e708d96c7ad56b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.ImageCache.load(url: __C.NSURL, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/ImageCache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "381">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECC9912B-8616-45CA-9476-348F9BF3E737"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/ImageCache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECC9912B-8616-45CA-9476-348F9BF3E737 - e708d96c7ad568fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.ImageCache.load(url: __C.NSURL, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/ImageCache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "399">
+               </Location>
+               <Location
+                  uuid = "ECC9912B-8616-45CA-9476-348F9BF3E737 - e708d96c7ad568fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.ImageCache.load(url: __C.NSURL, completion: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/ImageCache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56C065BC-30CC-440E-9C5C-C6139FFB4628"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/ImageCache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "196467E8-8D14-4290-8160-7479F3A7ED12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "getResponseFrom(urlString:enableCache:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - 92d64bb7d5743f48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - 92d64bb7d5743f48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - 92d64bb7d5743f48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "1050">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - 92d64bb7d5740a8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "1563">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - cb230c516ec65a63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "1563">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - cb230c516ec66b80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1563">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - cb230c516ec66b80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1293">
+               </Location>
+               <Location
+                  uuid = "196467E8-8D14-4290-8160-7479F3A7ED12 - cb230c516ec66b5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "1293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8485EB0D-C1E8-4608-A06D-469E97242ADC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "getResponseFrom(urlString:enableCache:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8485EB0D-C1E8-4608-A06D-469E97242ADC - cb230c516ec665b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "505">
+               </Location>
+               <Location
+                  uuid = "8485EB0D-C1E8-4608-A06D-469E97242ADC - cb230c516ec665b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "8485EB0D-C1E8-4608-A06D-469E97242ADC - cb230c516ec66591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BooksList.APIService.getResponseFrom(urlString: Swift.String, enableCache: Swift.Bool, completion: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "235">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DE15FB6-F55D-4EB5-B994-EFE4FB4BED5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DE15FB6-F55D-4EB5-B994-EFE4FB4BED5A - 2644d49c24d5b80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.DetailViewController.configure(with: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "338"
+                  endingLineNumber = "338"
+                  offsetFromSymbolStart = "2275">
+               </Location>
+               <Location
+                  uuid = "8DE15FB6-F55D-4EB5-B994-EFE4FB4BED5A - 2644d49c24d5ba1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.DetailViewController.configure(with: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "337"
+                  endingLineNumber = "337"
+                  offsetFromSymbolStart = "1937">
+               </Location>
+               <Location
+                  uuid = "8DE15FB6-F55D-4EB5-B994-EFE4FB4BED5A - 2644d49c24d5bce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.DetailViewController.configure(with: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "1937">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5924E7BA-2741-49D2-AA80-05F021D841D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "502"
+            endingLineNumber = "502"
+            landmarkName = "convertISOToLocalDate(isoDateString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5924E7BA-2741-49D2-AA80-05F021D841D2 - 2fc20b4c59d6f9e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.DetailViewController.convertISOToLocalDate(isoDateString: Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "502"
+                  endingLineNumber = "502"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "5924E7BA-2741-49D2-AA80-05F021D841D2 - 2fc20b4c59d6f9e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.DetailViewController.convertISOToLocalDate(isoDateString: Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "502"
+                  endingLineNumber = "502"
+                  offsetFromSymbolStart = "495">
+               </Location>
+               <Location
+                  uuid = "5924E7BA-2741-49D2-AA80-05F021D841D2 - 2fc20b4c59d6f9e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.DetailViewController.convertISOToLocalDate(isoDateString: Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "502"
+                  endingLineNumber = "502"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98C7C9E0-8A76-4890-AB78-D77B13367895"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "convertDateToISOFormat(date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB51A9AA-9B35-4B7B-9415-40EA4DD9B5E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "book"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EB51A9AA-9B35-4B7B-9415-40EA4DD9B5E9 - fda7966a0229a6ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.book.didset : Swift.Optional&lt;BooksList.Book&gt;"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "EB51A9AA-9B35-4B7B-9415-40EA4DD9B5E9 - fda7966a0229a66b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.book.didset : Swift.Optional&lt;BooksList.Book&gt;"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47EF9A44-7746-431A-BF42-FC688CD2EB70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookViewInterface.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "loadAddCustomBookViewUI(viewContext:coreDataService:isEditing:book:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47EF9A44-7746-431A-BF42-FC688CD2EB70 - cddb811805a72c98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookViewInterface.loadAddCustomBookViewUI(viewContext: __C.NSManagedObjectContext, isEditing: Swift.Bool, book: Swift.Optional&lt;BooksList.Book&gt;) -&gt; __C.UIViewController"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookViewInterface.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "47EF9A44-7746-431A-BF42-FC688CD2EB70 - 424546d0a3a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookViewInterface.loadAddCustomBookViewUI(viewContext: __C.NSManagedObjectContext, coreDataService: Swift.Optional&lt;BooksList.CoreDataService&gt;, isEditing: Swift.Bool, book: Swift.Optional&lt;BooksList.Book&gt;) -&gt; __C.UIViewController"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookViewInterface.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  uuid = "47EF9A44-7746-431A-BF42-FC688CD2EB70 - 424546d0a3acc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookViewInterface.loadAddCustomBookViewUI(viewContext: __C.NSManagedObjectContext, coreDataService: Swift.Optional&lt;BooksList.CoreDataService&gt;, isEditing: Swift.Bool, book: Swift.Optional&lt;BooksList.Book&gt;) -&gt; __C.UIViewController"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookViewInterface.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "203">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C84E91DD-7A65-4329-9EEE-3DD69B156142"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C84E91DD-7A65-4329-9EEE-3DD69B156142 - b85546e3202b1c38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BooksList.AddCustomBookView.body.getter : some"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "C84E91DD-7A65-4329-9EEE-3DD69B156142 - b85546e3202b1c38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BooksList.AddCustomBookView.body.getter : some"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  uuid = "C84E91DD-7A65-4329-9EEE-3DD69B156142 - b85546e3202b1f9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BooksList.AddCustomBookView.body.getter : some"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "C84E91DD-7A65-4329-9EEE-3DD69B156142 - b85546e3202b1f9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BooksList.AddCustomBookView.body.getter : some"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "375">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "saveBook()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9 - 9bfeb0ec7ab5bbe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "555">
+               </Location>
+               <Location
+                  uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9 - 8bdf499e58010d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.Bool, Swift.Error&gt;&gt;) -&gt; () in BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "286">
+               </Location>
+               <Location
+                  uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9 - 9bfeb0ec7ab5bbe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "478">
+               </Location>
+               <Location
+                  uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9 - 9bfeb0ec7ab5bb86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "478">
+               </Location>
+               <Location
+                  uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9 - 5f1ea46343ce3b50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.String, Swift.Error&gt;&gt;) -&gt; () in BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "836E0A99-9C42-4EA4-ADFC-864D769D7AE9 - 5f1ea46343ce3b50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.String, Swift.Error&gt;&gt;) -&gt; () in BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "326">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "408A276A-150E-41C7-BE53-63407FA607D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "saveBook()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5ba02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5ba02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "446">
+               </Location>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5ba02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "537">
+               </Location>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5ba02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5ba02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5bba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  uuid = "408A276A-150E-41C7-BE53-63407FA607D4 - 9bfeb0ec7ab5bba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.AddCustomBookView.saveBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "441">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "558CE515-8EA7-4B6D-AD6E-43CB0B3E3878"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/BookListCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "toggleFavouriteBtn()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "558CE515-8EA7-4B6D-AD6E-43CB0B3E3878 - 7bc44e5e59a3e50a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.BookListCell.toggleFavouriteBtn() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "558CE515-8EA7-4B6D-AD6E-43CB0B3E3878 - 7bc44e5e59a3e2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.BookListCell.toggleFavouriteBtn() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "558CE515-8EA7-4B6D-AD6E-43CB0B3E3878 - 7bc44e5e59a3e7dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.BookListCell.toggleFavouriteBtn() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/ViewModel/BooksManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchAndUpdateBooks(enableCache:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a3c45048d959b6af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a5bc6aeaaae261dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 28ab5dbe2ecdcaa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 1975768a0de552dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 36ee469d196d814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a538aef299ca7a2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 570dc74a754f9412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - fe477d0b2d1aec1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 36ee469d196dac3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a538aef299ca78f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 570dc74a754f96c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - fe477d0b2d1aeec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 36ee469d196da05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a538aef299ca783f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 570dc74a754f9603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - fe477d0b2d1aee0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 36ee469d196db6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a538aef299ca7956"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 570dc74a754f976a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - fe477d0b2d1aef66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 36ee469d196dc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - a538aef299ca7e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - 570dc74a754f9072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "133">
+               </Location>
+               <Location
+                  uuid = "5E87F122-725D-4D1C-8BC3-7A7EEFD407E1 - fe477d0b2d1ae87e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BooksList.BooksManager.fetchAndUpdateBooks(enableCache: Swift.Bool) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/ViewModel/BooksManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "fetchBookDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F - 98a8e045b546169a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in BooksList.DetailViewController.fetchBookDetails() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F - 98a8e045b5461731"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in BooksList.DetailViewController.fetchBookDetails() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F - 98a8e045b546171e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in BooksList.DetailViewController.fetchBookDetails() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F - 98a8e045b54617f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in BooksList.DetailViewController.fetchBookDetails() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F - 40dd9b2d8b9d13f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in BooksList.DetailViewController.fetchBookDetails() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  uuid = "0E1C56E1-46EE-492B-BF6E-EFA000B13F4F - 40dd9b2d8b9d1052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #2 @Sendable () async throws -&gt; () in BooksList.DetailViewController.fetchBookDetails() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "169">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/Services/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchPublicFavourites()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 62c8938823486156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BooksList.CoreDataService.doesBookExist(with: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 16d908744128bd5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - d1decf13a1a3537d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 6ed2dabe0b0f815c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 16d908744128bdd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - d1decf13a1a353f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 6ed2dabe0b0f81d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 16d908744128bcea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - d1decf13a1a352c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 6ed2dabe0b0f80e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 16d908744128bc77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - d1decf13a1a35254"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "75604BC2-3EF7-4A07-B94F-3DD0170F663D - 6ed2dabe0b0f8075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BooksList.CoreDataService.fetchPublicFavourites() async throws -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/Services/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B95F1F23-A6BF-4987-A1BF-4A5A3A1999D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookViewInterface.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadAddCustomBookViewUI(viewContext:coreDataService:isEditing:book:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83173ADC-BA3D-445C-8E67-F13327ADA69B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "addCustomBook()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83173ADC-BA3D-445C-8E67-F13327ADA69B - 8d6b2bd3be4a01cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in BooksList.ViewController.addCustomBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "83173ADC-BA3D-445C-8E67-F13327ADA69B - 8d6b2bd3be4a01cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in BooksList.ViewController.addCustomBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "83173ADC-BA3D-445C-8E67-F13327ADA69B - 8d6b2bd3be4a021a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in BooksList.ViewController.addCustomBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B349534-D0C4-4C92-A33B-C944FD7DB5B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/ViewModel/FavouritesManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "markFavourite(id:isFavourite:isCustom:shouldReload:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE730DF5-D589-44BB-B3F2-C41CE27469ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/AddCustomBookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "updateBook()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE730DF5-D589-44BB-B3F2-C41CE27469ED - 34055b4f4c324f7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.Bool, Swift.Error&gt;&gt;) -&gt; () in BooksList.AddCustomBookView.updateBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "EE730DF5-D589-44BB-B3F2-C41CE27469ED - 34055b4f4c324f5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.Bool, Swift.Error&gt;&gt;) -&gt; () in BooksList.AddCustomBookView.updateBook() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/AddCustomBookView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A49A139-8E1C-450A-B8A2-E27846A0CB57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FDDF89B-82B7-4D85-8109-137AC9BFDE63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "didSelectBook(book:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FDDF89B-82B7-4D85-8109-137AC9BFDE63 - a91aa06b11d8e2f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in BooksList.ViewController.didSelectBook(book: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "365">
+               </Location>
+               <Location
+                  uuid = "9FDDF89B-82B7-4D85-8109-137AC9BFDE63 - a91aa06b11d8fc3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in BooksList.ViewController.didSelectBook(book: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D46EC0FE-884F-45DE-9039-B0ACF08A1B9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "didSelectBook(book:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D46EC0FE-884F-45DE-9039-B0ACF08A1B9C - 37a321d3752ac9f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in BooksList.ViewController.didSelectBook(book: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "D46EC0FE-884F-45DE-9039-B0ACF08A1B9C - 37a321d3752ad70b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in BooksList.ViewController.didSelectBook(book: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "277"
+                  endingLineNumber = "277"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E70C4E2-8508-49CC-BC6C-CD38951F4482"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "didSelectBook(book:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E70C4E2-8508-49CC-BC6C-CD38951F4482 - 37a321d3752ac990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in BooksList.ViewController.didSelectBook(book: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "8E70C4E2-8508-49CC-BC6C-CD38951F4482 - 37a321d3752ad72a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in BooksList.ViewController.didSelectBook(book: BooksList.Book) -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF1D863B-183C-48A1-8793-F6E33391D9B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/ViewModel/BooksManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "fetchAndUpdateBooks(enableCache:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE36DF4B-2F56-41D8-BE3A-A452ADDBDBA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/ViewModel/BooksManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchAndUpdateBooks(enableCache:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1266A71-2F7D-4000-AA26-B1FDB62E1C5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/ViewModel/BooksManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C86C45ED-A22A-4BA6-956E-B85BE0955FB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/ViewModel/BooksManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B31BC0D-2946-449C-B28B-4E20348CFA01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/BookCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "bindData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B31BC0D-2946-449C-B28B-4E20348CFA01 - b61418baf34562b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;BooksList.Book&gt;) -&gt; () in BooksList.BookCollectionViewController.bindData() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "3B31BC0D-2946-449C-B28B-4E20348CFA01 - b61418baf34562b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;BooksList.Book&gt;) -&gt; () in BooksList.BookCollectionViewController.bindData() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "473">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB9F5968-DE31-4D5E-8887-F5382A176BBB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BooksList/View/BookTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "bindData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB9F5968-DE31-4D5E-8887-F5382A176BBB - b42f372b4067ac40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;BooksList.Book&gt;) -&gt; () in BooksList.BookTableViewController.bindData() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "EB9F5968-DE31-4D5E-8887-F5382A176BBB - b42f372b4067ac40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;BooksList.Book&gt;) -&gt; () in BooksList.BookTableViewController.bindData() -&gt; ()"
+                  moduleName = "BooksList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My%20Works/iPhone%20Projects/Machine%20Tasks/BooksList/BooksList/View/BookTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "473">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
